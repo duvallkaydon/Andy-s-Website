@@ -1,0 +1,14 @@
+body {}
+
+p {}
+
+td {}
+
+a:link { color: blue ; text-decoration: none; }
+
+a:visited { color: maroon ; text-decoration: none; }
+
+a:hover { color: black ; text-decoration: underline; }
+
+a:active { color: red; text-decoration: underline; }
+

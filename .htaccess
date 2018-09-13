@@ -1,0 +1,3 @@
+RewriteEngine on
+#RewriteCond %{REQUEST_URI} !(blank)
+#RewriteRule (.*)$ /blank.htm [R,L,NC]
